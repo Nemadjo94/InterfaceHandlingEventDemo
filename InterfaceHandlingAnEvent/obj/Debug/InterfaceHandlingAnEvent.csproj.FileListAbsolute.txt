@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceHandlingAnEvent\InterfaceHandlingAnEvent\bin\Debug\InterfaceHandlingAnEvent.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceHandlingAnEvent\InterfaceHandlingAnEvent\bin\Debug\InterfaceHandlingAnEvent.exe
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceHandlingAnEvent\InterfaceHandlingAnEvent\bin\Debug\InterfaceHandlingAnEvent.pdb
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceHandlingAnEvent\InterfaceHandlingAnEvent\obj\Debug\InterfaceHandlingAnEvent.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceHandlingAnEvent\InterfaceHandlingAnEvent\obj\Debug\InterfaceHandlingAnEvent.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceHandlingAnEvent\InterfaceHandlingAnEvent\obj\Debug\InterfaceHandlingAnEvent.exe
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceHandlingAnEvent\InterfaceHandlingAnEvent\obj\Debug\InterfaceHandlingAnEvent.pdb
